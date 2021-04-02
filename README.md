@@ -28,7 +28,7 @@ Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering studen
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Android Studio</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg" href="https://developer.android.com/studio">
       </td>
       <td width="25%" align="center">
         <span><strong>Flutter</strong></span><br><br><br>
