@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Rehan Adi Satrya, I'm a final year Informatics Engineering student at Institut Teknologi Bandung. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering student at Institut Teknologi Bandung. I am a Mobile Developer and a Wordpress Developer. Looking forward to learn new skills and add them in the list.
 
 
 <!-- ## Coding Profiles
@@ -21,7 +21,7 @@ Hey My Name is Rehan Adi Satrya, I'm a final year Informatics Engineering studen
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+## <strong>𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸</strong>
 
 <table>
   <tbody>
@@ -133,7 +133,7 @@ Hey My Name is Rehan Adi Satrya, I'm a final year Informatics Engineering studen
 
 </div>
 
-<h3>Terima Kasih</h3>
+<h3 align = "center">Terima Kasih! -- Thank You!</h3>
 
 
 ---
