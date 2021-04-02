@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering student at Institut Teknologi Bandung. I am a Mobile Developer and a Wordpress Developer. Looking forward to learn new skills and add them in the list.
+Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering student at Institut Teknologi Bandung. I am a Mobile Developer and a Website Developer. Looking forward to learn new skills and add them in the list.
 
 
 <!-- ## Coding Profiles
