@@ -9,15 +9,11 @@
 Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering student at Institut Teknologi Bandung. I am a Mobile Developer and a Website Developer. Looking forward to learn new skills and add them in the list.
 
 
-<!-- ## Coding Profiles
+## Coding Profiles
 
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.hackerrank.com/rehanadi30">
+  <img  alt="Rehan's Hackerrank Profile" width="35px" src="https://www.svgrepo.com/show/306171/hackerrank.svg" />
 </a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a> -->
 
 <hr/>
 
@@ -28,7 +24,7 @@ Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering studen
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Android Studio</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg" href="https://developer.android.com/studio">
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Flutter</strong></span><br><br><br>
