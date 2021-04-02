@@ -21,7 +21,7 @@ Hey my name is Rehan Adi Satrya, I'm a final year Informatics Engineering studen
 
 <hr/>
 
-## <strong>𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸</strong>
+## <strong>My Tech Stack</strong>
 
 <table>
   <tbody>
